@@ -72,8 +72,8 @@ const page = () => {
 						<Image src={photoPlate} alt='plate' />
 					</aside>
 				</section>
-				<section className='w-full mb-10 mt-5 sm:mt-0'>
-					<div className='flex flex-col gap-[30px] sm:gap-0 pl-10 sm:flex-row bg-white py-5 sm:w-[65%] sm:px-[60px] justify-between shadow-lg shadow-gray-400'>
+				<section className=' ml-[85px] mb-10 mt-5 flex shadow-gray-600 shadow p-[20px_20px] w-[89%] rounded-md sm:mt-0'>
+					<div className=' flex justify-between gap-[20rem]'>
 						<div className='flex items-center gap-5'>
 							<Image src={timeEat} alt='time eat' />
 							<p className='w-[200px]'>
